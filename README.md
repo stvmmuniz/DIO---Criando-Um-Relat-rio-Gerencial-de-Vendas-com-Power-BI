@@ -6,7 +6,7 @@ Criar relatório com visuais personalizados utilizando a base de dados de exempl
 
 
 ## Atividades realizadas:
-- [X] Criação da Página 1 - Relatório de Vendas, a partir do zero seguindo modelo apresentdo em aula:
+- [X] Criação da **Página 1 - Relatório de Vendas**, a partir do zero seguindo modelo apresentdo em aula:
     
     * Segmentação de dados por data;
 	
@@ -28,7 +28,7 @@ Criar relatório com visuais personalizados utilizando a base de dados de exempl
 	
 	* Botão de Navegação para a Página 2.
 	
-- [X] Criação da Página 2 - Relatório de Lucro Detalhado, a partir do zero seguindo modelo apresentdo em aula:
+- [X] Criação da **Página 2 - Relatório de Lucro Detalhado**, a partir do zero seguindo modelo apresentdo em aula:
     
     * Segmentação de dados por anos usando visual personalizado Chiclet Slicer;	
 	
@@ -38,7 +38,7 @@ Criar relatório com visuais personalizados utilizando a base de dados de exempl
 	
 	* Visual de Lucro por Segmento com Gráfico TreeMap;
 	
-	* * Visual de Lucro por Trimestre com Gráfico de Cascata;
+	* Visual de Lucro por Trimestre com Gráfico de Cascata;
 	
 		
 
